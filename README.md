@@ -55,10 +55,12 @@ No Python installation required.
 1. Double-click `yt-dlp-menu.bat`
 2. Paste a YouTube (or supported site) URL
 3. Choose one of the options:
-
+<pre>
 [1] Download video only (no subtitles)
 [2] Download video with embedded subtitles (MKV)
 [3] Download audio only (MP3)
+</pre>
+
 
 
 ---
@@ -134,7 +136,7 @@ Please ensure changes remain:
 
 ## 📧 Credits
 
-- **yt-dlp** project and contributors
-- **FFmpeg** project
+- [**yt-dlp** GitHub](https://github.com/yt-dlp/yt-dlp) project and contributors
+- [**FFmpeg** GitHub](https://github.com/FFmpeg/FFmpeg) project
 - Developed by **HUR-AI-GEM**
 
